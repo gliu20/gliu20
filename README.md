@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Contribution chart](https://github-readme-stats.vercel.app/api?username=gliu20&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)
+
+
 -->
 
 
-![Contribution chart](https://github-readme-stats.vercel.app/api?username=gliu20&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)
 ![Top languages chart](https://github-readme-stats.vercel.app/api/top-langs/?username=gliu20&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=8)
